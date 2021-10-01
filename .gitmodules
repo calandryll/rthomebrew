@@ -1,0 +1,21 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/tranquilpeak"]
+	path = themes/tranquilpeak
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
+[submodule "themes/hero"]
+	path = themes/hero
+	url = https://github.com/zerostaticthemes/hugo-hero-theme.git
+[submodule "themes/KeepIt"]
+	path = themes/KeepIt
+	url = https://github.com/Fastbyte01/KeepIt.git
+[submodule "themes/hargo"]
+	path = themes/hargo
+	url = https://github.com/themefisher/hargo-hugo.git
+[submodule "themes/colordrop"]
+	path = themes/colordrop
+	url = https://github.com/humrochagf/colordrop.git
+[submodule "themes/hugo-serif-theme"]
+	path = themes/hugo-serif-theme
+	url = https://github.com/zerostaticthemes/hugo-serif-theme.git

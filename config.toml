@@ -1,0 +1,60 @@
+baseURL = 'http://redtidebrewin.com/'
+languageCode = 'en-us'
+title = 'Redtide Home Brewery'
+#title = 'A Home brewery located in Dover Delaware'
+
+[taxonomies]
+    beer = 'beers'
+
+# Superscript stuff
+[markup]
+  [markup.goldmark]
+   [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
+
+[params]
+    favicon = "images/favicon.ico"
+    primary_color = '#434C5E'
+    [params.logo]
+        mobile = "images/logo.svg"
+        mobile_height = "36px"
+        desktop = "images/logo.svg"
+        desktop_height = "50px"
+        alt = "A Home Brewery"
+    
+
+[menu]
+    [[menu.main]]
+        name = 'Beers'
+        url = '/beers'
+        weight = 2
+    [[menu.main]]
+        name = 'Water Profile'
+        url = '/water'
+        weight = 3
+    [[menu.main]]
+        name = 'About'
+        url = '/about'
+        weight = 1
+    [[menu.main]]
+        name = "Current Fermentations"
+        url = "http://brewing.redtidebrewing.com"
+        weight = 4
+    [[menu.footer]]
+        name = "Contact"
+        url = "mailto:chris@redtidebrewing.com"
+        weight = 2
