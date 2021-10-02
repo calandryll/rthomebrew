@@ -1,5 +1,6 @@
 .intro-image {
-  width: 100%;
+  //width: 100%;
+  width: $intro_image_width;
   height: auto;
   margin-top: -40px;
 }
@@ -32,4 +33,9 @@
   @include media-breakpoint-up(md) {
     display: block;
   }
+}
+
+.intro-image-center {
+  display: flex;
+  justify-content: center;
 }

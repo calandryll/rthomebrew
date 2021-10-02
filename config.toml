@@ -27,8 +27,19 @@ title = 'Redtide Home Brewery'
       xhtml = false
 
 [params]
+    # Colors
     favicon = "images/favicon.ico"
     primary_color = '#434C5E'
+    secondary_color = '#4C566A'
+    black_color = '#2f2f41'
+    white_color = '#E5E9F0'
+    white_offset = '#ECEFF4'
+    steel = '#5C5A5A'
+
+    # Main logo
+    intro_image_width = '50%'
+
+    # Header logo
     [params.logo]
         mobile = "images/logo.svg"
         mobile_height = "36px"
