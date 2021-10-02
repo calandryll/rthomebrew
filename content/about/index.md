@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2021-10-01T14:43:57-04:00
-draft: true
+draft: false
 favicon: 'images/favicon.ico'
 ---
 

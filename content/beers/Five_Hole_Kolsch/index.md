@@ -3,7 +3,7 @@ title: "Five Hole Kolsch"
 draft: false
 date: 2020-02-17
 hideLastModified: true
-summaryImage: "fhk.jpg"
+logoImage: "fhk.jpg"
 beers: ["Kolsch"]
 summary: "A clean, crisp, delicately-balanced beer usually with a very subtle fruit and hop character. Subdued maltiness throughout leads into a pleasantly well-attenuated and refreshing finish. Freshness makes a huge difference with this beer, as the delicate character can fade quickly with age. Brilliant clarity is characteristic. History: Cologne, Germany (K&#246;ln) has a top-fermenting brewing tradition since the Middle Ages, but developed the beer now known as K&#246;lsch in the late 1800s to combat encroaching bottom-fermented pale lagers. K&#246;lsch is an appellation protected by the K&#246;lsch Konvention (1986), and is restricted to the 20 or so breweries in and around K&#246;ln. The Konvention simply defines the beer as a 'light, highly attenuated, hop-accentuated, clear, top-fermenting Vollbier.'  Style Comparison: To the untrained taster, easily mistaken for a cream ale or somewhat subtle Pils."
 resources:

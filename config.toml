@@ -1,4 +1,4 @@
-baseURL = 'http://redtidebrewin.com/'
+baseURL = 'http://redtidebrewing.com/'
 languageCode = 'en-us'
 title = 'Redtide Home Brewery'
 #title = 'A Home brewery located in Dover Delaware'
@@ -38,6 +38,7 @@ title = 'Redtide Home Brewery'
 
     # Main logo
     intro_image_width = '50%'
+    beer_bottle = 'images/beer-759627_1280.png'
 
     # Header logo
     [params.logo]

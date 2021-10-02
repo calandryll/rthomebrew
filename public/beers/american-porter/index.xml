@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>American Porter on Redtide Home Brewery</title>
+    <link>http://redtidebrewing.com/beers/american-porter/</link>
+    <description>Recent content in American Porter on Redtide Home Brewery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://redtidebrewing.com/beers/american-porter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Puck Drop Porter</title>
+      <link>http://redtidebrewing.com/beers/puck_drop_porter/</link>
+      <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://redtidebrewing.com/beers/puck_drop_porter/</guid>
+      <description>A substantial, malty dark beer with a complex and flavorful dark malt character. History: A stronger, more aggressive version of pre-prohibition porters and/or English porters developed in the modern craft beer era. Historical versions existed, particularly on the US East Coast, some of which are still being produced (see the Historical Beer, Pre-Prohibition Porter). This style describes the modern craft version. Style Comparison: More bitter and often stronger with more dark malt qualities and dryness than English Porters or Pre-Prohibition Porters. Less strong and assertive than American Stouts.</description>
+    </item>
+    
+    <item>
+      <title>Ebenezer</title>
+      <link>http://redtidebrewing.com/beers/ebenezer/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redtidebrewing.com/beers/ebenezer/</guid>
+      <description>A substantial, malty dark beer with a complex and flavorful dark malt character. History: A stronger, more aggressive version of pre-prohibition porters and/or English porters developed in the modern craft beer era. Historical versions existed, particularly on the US East Coast, some of which are still being produced (see the Historical Beer, Pre-Prohibition Porter). This style describes the modern craft version. Style Comparison: More bitter and often stronger with more dark malt qualities and dryness than English Porters or Pre-Prohibition Porters. Less strong and assertive than American Stouts.</description>
+    </item>
+    
+  </channel>
+</rss>
