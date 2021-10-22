@@ -10,7 +10,7 @@ beer_bottle: 'images/beer-759627_1280.png'
 
 # Ebenezer
 ### Style: American Porter
-A substantial, malty dark beer with a complex and flavorful dark malt character. History: A stronger, more aggressive version of pre-prohibition porters and/or English porters developed in the modern craft beer era. Historical versions existed, particularly on the US East Coast, some of which are still being produced (see the Historical Beer, Pre-Prohibition Porter). This style describes the modern craft version. Style Comparison: More bitter and often stronger with more dark malt qualities and dryness than English Porters or Pre-Prohibition Porters. Less strong and assertive than American Stouts.
+Our first stab at an American Porter.  This winter warmer/holiday beer is excellent for those cold, snowy nights.
 ### Recipe Details
 |**Batch Size**|**Boil Time**|**IBU**|**SRM**|**OG**|**FG**|**ABV**|
 |--|--|--|--|--|--|--|
