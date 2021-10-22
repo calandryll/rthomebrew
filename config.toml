@@ -38,6 +38,7 @@ title = 'Redtide Home Brewery'
 
     # Main logo
     intro_image_width = '50%'
+    #from Image by <a href="https://pixabay.com/users/tabble-989840/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=759627">Tabble</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=759627">Pixabay</a>
     beer_bottle = 'images/beer-759627_1280.png'
 
     # Header logo

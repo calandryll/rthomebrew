@@ -5,6 +5,7 @@ date: 2017-09-30
 beers: ["Spice, Herb or Vegetable Beer"]
 summary: "A harmonious marriage of SHV and beer, but still recognizable as a beer. The SHV character should be evident but in balance with the beer, not so forward as to suggest an artificial product. The entrant must specify a base style, but the declared style does not have to be a Classic Style. The entrant must specify the type of spices, herbs, or vegetables used, but individual ingredients do not need to be specified if a well-known spice blend is used (e.g., apple pie spice, curry powder, chili powder)."
 favicon: 'images/favicon.ico'
+beer_bottle: 'images/beer-759627_1280.png'
 ---
 
 # Fezziwig

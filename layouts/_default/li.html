@@ -1,9 +1,7 @@
+<center>
 <a href="{{ .Permalink }}">
-    {{ if .Site.Params.beer_bottle }}
-    <!--from Image by <a href="https://pixabay.com/users/tabble-989840/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=759627">Tabble</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=759627">Pixabay</a>
-    -->
-    <img src="{{ .Site.Params.beer_bottle | relURL }}" width="100px" height="auto"/>
-    {{ end }}
+    <img src="{{ .Params.beer_bottle | relURL }}" width="100px" height="auto"/>
     <br>
     {{ .Title }}
 </a>
+</center>

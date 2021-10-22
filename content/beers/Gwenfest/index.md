@@ -5,6 +5,7 @@ date: 2019-08-24
 beers: ["Marzen"]
 summary: "An elegant, malty German amber lager with a clean, rich, toasty and bready malt flavor, restrained bitterness, and a dry finish that encourages another drink. The overall malt impression is soft, elegant, and complex, with a rich aftertaste that is never cloying or heavy.  History: As the name suggests, brewed as a stronger �March beer� in March and lagered in cold caves over the summer. Modern versions trace back to the lager developed by Spaten in 1841, contemporaneous to the development of Vienna lager. However, the M&#228;rzen name is much older than 1841; the early ones were dark brown, and in Austria the name implied a strength band (14 �P) rather than a style. The German amber lager version (in the Viennese style of the time) was first served at Oktoberfest in 1872, a tradition that lasted until 1990 when the golden Festbier was adopted as the standard festival beer. Style Comparison: Not as strong and rich as a Dunkles Bock. More malt depth and richness than a Festbier, with a heavier body and slightly less hops. Less hoppy and equally malty as a Czech Amber Lager."
 favicon: 'images/favicon.ico'
+beer_bottle: 'images/beer-759627_1280.png'
 ---
 
 # Gwenfest

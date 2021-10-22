@@ -5,6 +5,7 @@ date: 2020-02-12
 beers: ["Cream Ale"]
 summary: "A clean, well-attenuated, flavorful American 'lawnmower' beer. Easily drinkable and refreshing, with more character than typical American lagers. History: A sparkling or present-use ale that existed in the 1800s and survived prohibition. An ale version of the American lager style. Produced by ale brewers to compete with lager brewers in Canada and the Northeast, Mid-Atlantic, and Midwest states. Originally known as sparkling or present use ales, lager strains were (and sometimes still are) used by some brewers, but were not historically mixed with ale strains. Many examples are krausened to achieve carbonation. Cold conditioning isn't traditional, although modern brewers sometimes use it. Style Comparison: Similar to a Standard American Lager, but with more character."
 favicon: 'images/favicon.ico'
+beer_bottle: 'images/beer-759627_1280.png'
 ---
 
 # Cream of the Crop

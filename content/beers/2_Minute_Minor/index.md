@@ -5,6 +5,7 @@ date: 2020-10-17
 beers: ["American Pale Ale"]
 summary: "A pale, refreshing and hoppy ale, yet with sufficient supporting malt to make the beer balanced and drinkable. The clean hop presence can reflect classic or modern American or New World hop varieties with a wide range of characteristics. An average-strength hop-forward pale American craft beer, generally balanced to be more accessible than modern American IPAs. History: A modern American craft beer era adaptation of English pale ale, reflecting indigenous ingredients (hops, malt, yeast, and water). Prior to the explosion in popularity of IPAs, was traditionally the most well-known and popular of American craft beers. Style Comparison: Typically lighter in color, cleaner in fermentation by-products, and having less caramel flavors than English counterparts. There can be some overlap in color between American pale ale and American amber ale. The American pale ale will generally be cleaner, have a less caramelly malt profile, less body, and often more finishing hops. Less bitterness in the balance and alcohol strength than an American IPA. More balanced and drinkable, and less intensely hop-focused and bitter than session-strength American IPAs (aka Session IPAs)."
 favicon: 'images/favicon.ico'
+beer_bottle: 'images/beer-759627_1280.png'
 ---
 
 # Two Minutes Minor
