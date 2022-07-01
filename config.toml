@@ -71,3 +71,7 @@ title = 'Redtide Home Brewery'
         name = "Contact"
         url = "mailto:chris@redtidebrewing.com"
         weight = 2
+    [[menu.main]]
+        name = "Taplist"
+        url = "http://taplist.redtidebrewing.com"
+        weight = 5
